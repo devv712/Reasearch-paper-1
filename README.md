@@ -26,8 +26,7 @@ industry-standard encryption practices and robust user authentication mechanisms
 an intuitive interface that facilitates the secure storage and retrieval of files.
 
 
-I. INTRODUCTION
-The proliferation of digital information in the contemporary era necessitates the development of robust file storage
+I. INTRODUCTION- The proliferation of digital information in the contemporary era necessitates the development of robust file storage
 solutions that prioritize security. The "Secure Storage" web application emerges as a response to this exigency, offering
 users a secure platform for managing and safeguarding their files. The application leverages the power of Python and
 the Flask framework, while adhering to industry-standard encryption techniques to guarantee the confidentiality and
